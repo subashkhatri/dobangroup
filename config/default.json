@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://subash:9860001807PS@dobangroup.kuc0y.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
